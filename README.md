@@ -25,8 +25,11 @@ d. You shall comply with all applicable laws in using the Product and exercising
 **e. You shall ensure that the Product is kept secure and prevent unauthorised access, copying, modification, storage, reproduction, display or distribution of the Product.**
 
 To ensure that I am complying with their terms of service, I am therefore doing two things:
+
 i) I am backing up my copy of the product digital content in this public GitHub repository
+
 ii) I am authorizing everyone in the world to browse this public GitHub repository and it's contents
+
 
 I should add that I am doing this in good faith, and acting in the belief that Humane Technologies Ltd. is also acting in good faith and that when they claim that their product is open source they are abiding by the common understanding that designating some material as open source means, in particular, that the material may be freely redistributed, as I am doing here.
 
